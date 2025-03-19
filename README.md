@@ -10,7 +10,7 @@ Our vision goes beyond technology—it's about building a collaborative, inclusi
 
 Our inclusive team of developers, coders, and rebels push all the limits to lose "im" and make everything possible. And you will be part of this team.  
 
-## The Qualities We Are Looking For
+### The Qualities We Are Looking For
 
 - **Your love to code**  
 - **Your love to code**  
@@ -36,5 +36,5 @@ Our inclusive team of developers, coders, and rebels push all the limits to lose
 
 ## How to Apply
 
-Choose one or many of the following problem statements and send a GitHub repository link for your solution along with your resume or CV to **[Your Email Here]**.
+Choose one or many of the following problem statements and fill the form 
 
