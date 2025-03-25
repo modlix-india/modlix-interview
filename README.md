@@ -36,5 +36,10 @@ Our inclusive team of developers, coders, and rebels push all the limits to lose
 
 ## How to Apply
 
-Choose one or many of the following problem statements and fill the form 
+Choose one or many of the following problem statements and share a link to the github repo with your CV on kiran{yaat]modlix(dooooot}com
 
+1. [Problem 1](SDE/CH001/Peeing%20in%20pi.md) - Peeing in pi
+2. [Problem 2](SDE/CH002/Lossless String Compression.md) - Lossless String Compression
+3. [Problem 3](SDE/CH003/JSON Schema Validator (Without Libraries).md) - JSON Schema Validator without libraries
+4. [Problem 4](SDE/CH004/Maze Generator.md) - Maze Generator
+5. [Problem 5](SDE/CH005/Build Your Own Shell.md) - Build your own shell  
