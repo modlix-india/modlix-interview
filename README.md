@@ -43,3 +43,7 @@ Choose one or many of the following problem statements and share a link to the g
 3. [Problem 3](SDE/CH003/JSON%20Schema%20Validator%20(Without%20Libraries).md) - JSON Schema Validator without libraries
 4. [Problem 4](SDE/CH004/Maze%20Generator.md) - Maze Generator
 5. [Problem 5](SDE/CH005/Build%20Your%20Own%20Shell.md) - Build your own shell  
+
+# Currently open positions
+
+1. Spring boot Java Full-Stack SDE 3-5 years of experience. Please send the solutions in Java if interested in this position. [Job Description](JD/SDE%20JD.pdf)
