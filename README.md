@@ -36,7 +36,7 @@ Our inclusive team of developers, coders, and rebels push all the limits to lose
 
 ## How to Apply
 
-Choose one or many of the following problem statements and share a link to the github repo with your CV on kiran{yaat]modlix(dooooot}com
+Choose one or many of the following problem statements and share a link to the github repo with your CV on kiran@modlix.com
 
 1. [Problem 1](SDE/CH001/Peeing%20in%20pi.md) - Peeing in pi
 2. [Problem 2](SDE/CH002/Lossless%20String%20Compression.md) - Lossless String Compression
